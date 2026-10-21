@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import { Container, Movie, MovieList, Btn } from "./style";
 import { Link } from "react-router-dom";
-
+//
 function Home() {
   const imagePath = "https://image.tmdb.org/t/p/w500";
 
